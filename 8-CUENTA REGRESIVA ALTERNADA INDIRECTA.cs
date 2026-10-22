@@ -1,5 +1,4 @@
-﻿//Mostrar una cuenta regresiva desde un numero hata cero utlizando dos metodos que se llamen entre si
-
+﻿// Mostrar una cuenta regresiva desde un número hasta e utilizando dos métodos que se llaman entre sí.
 using System;
 class Program8
 {

@@ -1,5 +1,4 @@
-﻿//Agregar al repositorio de github
-
+﻿// Calcular la suma de todos los números desde el 1 hasta el n.
 using System;
 
 class Program3

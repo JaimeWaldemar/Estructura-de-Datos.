@@ -1,5 +1,4 @@
-﻿//Calcular la suma de los numeros desde 1 hasta n utilizando dos metodos que se llamen mutuamente
-
+﻿// Calcular la suma de los números desde 1 hasta n utilizando dos métodos que se llaman mutuamente.
 using System;
 class Program9
 {

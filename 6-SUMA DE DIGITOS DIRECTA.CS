@@ -1,11 +1,11 @@
+// Sumar todos los dígitos de un número entero positivo.
 using System;
-
 class Program6
 {
     static int SumaDigitos(int n)
     {
-        if (n == 0) return 0;                       // caso base: ya no quedan dígitos
-        return (n % 10) + SumaDigitos(n / 10);      // último dígito + suma del resto
+        if (n == 0) return 0;                       
+        return (n % 10) + SumaDigitos(n / 10);      
     }
 
     static void Main()

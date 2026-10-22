@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Determinar si un número entero no negativo es par o impar.
+using System;
 class Program7
 {
     static bool EsPar(int n)

@@ -1,5 +1,5 @@
-﻿using System;
-
+﻿// Calcular una potencia entera no negativa utilizando recursividad.
+using System;
 class Program4
 {
     static long Potencia(int baseNum, int exponente)

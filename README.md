@@ -1,4 +1,4 @@
-# Estructuras de Datos
+# Estrucura-de-Datos.
 ## Datos del alumno
 
 Nombre del alumno: Jaime Albero Waldemar Morales Saenz

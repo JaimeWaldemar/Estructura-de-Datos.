@@ -2,7 +2,7 @@
 
 using System;
 
-class program
+class program2
 {
     static long Fibonacci(int n)
     {

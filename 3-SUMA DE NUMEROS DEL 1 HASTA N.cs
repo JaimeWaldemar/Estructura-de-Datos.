@@ -2,7 +2,7 @@
 
 using System;
 
-class Program
+class Program3
 {
     static int Suma(int n)
     {

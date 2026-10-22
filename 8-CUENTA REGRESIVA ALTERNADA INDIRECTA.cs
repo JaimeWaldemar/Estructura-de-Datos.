@@ -1,7 +1,7 @@
 ﻿//Mostrar una cuenta regresiva desde un numero hata cero utlizando dos metodos que se llamen entre si
 
 using System;
-class Program
+class Program8
 {
     static void CuentaA(int n)
     {

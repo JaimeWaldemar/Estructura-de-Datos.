@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Program4
 {
     static long Potencia(int baseNum, int exponente)
     {

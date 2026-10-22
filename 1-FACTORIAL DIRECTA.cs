@@ -1,7 +1,7 @@
 ﻿//
 using System;
 
-class program
+class program1
 {
     static long Factorial(int n)
     {

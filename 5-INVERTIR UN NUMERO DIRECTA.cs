@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Program5
 {
     static long Invertir(long n, long resultado = 0)
     {

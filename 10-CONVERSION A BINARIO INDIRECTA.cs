@@ -1,7 +1,7 @@
 using System;
 using System.Dynamic;
 
-class Program
+class Program10
 {
     static void BinarioA(int n)
     {

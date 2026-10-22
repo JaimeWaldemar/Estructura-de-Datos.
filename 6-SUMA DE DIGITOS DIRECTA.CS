@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Program6
 {
     static int SumaDigitos(int n)
     {

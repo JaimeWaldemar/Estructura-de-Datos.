@@ -1,5 +1,5 @@
 ﻿using System;
-class Program
+class Program7
 {
     static bool EsPar(int n)
     {

@@ -1,7 +1,7 @@
 ﻿//Calcular la suma de los numeros desde 1 hasta n utilizando dos metodos que se llamen mutuamente
 
 using System;
-class Program
+class Program9
 {
     static int SumaA(int n)
     {

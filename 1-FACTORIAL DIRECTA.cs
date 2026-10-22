@@ -1,4 +1,5 @@
-﻿//
+﻿//Este código le pide un número de 0 a 20 al usuario y calcula su factorial 
+//(multiplicando ese número por todos los anteriores hasta llegar a 1) usando recursividad.
 using System;
 
 class program1
